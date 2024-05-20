@@ -45,6 +45,18 @@ void menu() {
 			break;
 		case '2':
 			i--;
+			i = (i - 1) < 0 ? Mass_mus.size() - 1 : i - 1;
+			k = i;
+			while (Mass_fuu.count(Mass_mus[i].get_genre())) {
+				i--;
+				if (i < 0) {
+					i = Mass_mus.size() - 1;
+				}
+				if (i == k) {
+					cout << "В БД нет музыки, которая бы подходила под Ваши вкусовые предпочтения :(" << endl;
+					exit(1);
+				}
+			}
 			sound = OpenSound(device, Mass_mus[i].get_name_song(), true);
 			sound->play();
 			cout << "Сейчас играет: " << Mass_mus[i].get_name_executor() << " - " << Mass_mus[i].get_name_song() << endl;
@@ -77,6 +89,7 @@ void menu() {
 		case '6':
 			sound->setRepeat(true);
 			cout << "Трек стоит на повторе" << endl;
+			break;
 		case 27:
 			break;
 		}
