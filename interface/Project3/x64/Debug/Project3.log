@@ -1,0 +1,56 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\Project3\main.cpp(100,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Asus\source\repos\Project3\main.cpp(100,83): warning C4244:         with
+C:\Users\Asus\source\repos\Project3\main.cpp(100,83): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(100,83): warning C4244:             T=int
+C:\Users\Asus\source\repos\Project3\main.cpp(100,83): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(100,83): warning C4244:         and
+C:\Users\Asus\source\repos\Project3\main.cpp(100,83): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(100,83): warning C4244:             T=float
+C:\Users\Asus\source\repos\Project3\main.cpp(100,83): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(100,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Asus\source\repos\Project3\main.cpp(100,71): warning C4244:         with
+C:\Users\Asus\source\repos\Project3\main.cpp(100,71): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(100,71): warning C4244:             T=int
+C:\Users\Asus\source\repos\Project3\main.cpp(100,71): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(100,71): warning C4244:         and
+C:\Users\Asus\source\repos\Project3\main.cpp(100,71): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(100,71): warning C4244:             T=float
+C:\Users\Asus\source\repos\Project3\main.cpp(100,71): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(140,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Asus\source\repos\Project3\main.cpp(140,83): warning C4244:         with
+C:\Users\Asus\source\repos\Project3\main.cpp(140,83): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(140,83): warning C4244:             T=int
+C:\Users\Asus\source\repos\Project3\main.cpp(140,83): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(140,83): warning C4244:         and
+C:\Users\Asus\source\repos\Project3\main.cpp(140,83): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(140,83): warning C4244:             T=float
+C:\Users\Asus\source\repos\Project3\main.cpp(140,83): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(140,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Asus\source\repos\Project3\main.cpp(140,71): warning C4244:         with
+C:\Users\Asus\source\repos\Project3\main.cpp(140,71): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(140,71): warning C4244:             T=int
+C:\Users\Asus\source\repos\Project3\main.cpp(140,71): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(140,71): warning C4244:         and
+C:\Users\Asus\source\repos\Project3\main.cpp(140,71): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(140,71): warning C4244:             T=float
+C:\Users\Asus\source\repos\Project3\main.cpp(140,71): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(159,87): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Asus\source\repos\Project3\main.cpp(159,87): warning C4244:         with
+C:\Users\Asus\source\repos\Project3\main.cpp(159,87): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(159,87): warning C4244:             T=int
+C:\Users\Asus\source\repos\Project3\main.cpp(159,87): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(159,87): warning C4244:         and
+C:\Users\Asus\source\repos\Project3\main.cpp(159,87): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(159,87): warning C4244:             T=float
+C:\Users\Asus\source\repos\Project3\main.cpp(159,87): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(159,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Asus\source\repos\Project3\main.cpp(159,75): warning C4244:         with
+C:\Users\Asus\source\repos\Project3\main.cpp(159,75): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(159,75): warning C4244:             T=int
+C:\Users\Asus\source\repos\Project3\main.cpp(159,75): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(159,75): warning C4244:         and
+C:\Users\Asus\source\repos\Project3\main.cpp(159,75): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(159,75): warning C4244:             T=float
+C:\Users\Asus\source\repos\Project3\main.cpp(159,75): warning C4244:         ]
+  Project3.vcxproj -> C:\Users\Asus\source\repos\Project3\x64\Debug\Project3.exe

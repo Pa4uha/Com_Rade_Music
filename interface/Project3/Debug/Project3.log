@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\Project3\main.cpp(58,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Asus\source\repos\Project3\main.cpp(58,83): warning C4244:         with
+C:\Users\Asus\source\repos\Project3\main.cpp(58,83): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(58,83): warning C4244:             T=int
+C:\Users\Asus\source\repos\Project3\main.cpp(58,83): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(58,83): warning C4244:         and
+C:\Users\Asus\source\repos\Project3\main.cpp(58,83): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(58,83): warning C4244:             T=float
+C:\Users\Asus\source\repos\Project3\main.cpp(58,83): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(58,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Asus\source\repos\Project3\main.cpp(58,71): warning C4244:         with
+C:\Users\Asus\source\repos\Project3\main.cpp(58,71): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(58,71): warning C4244:             T=int
+C:\Users\Asus\source\repos\Project3\main.cpp(58,71): warning C4244:         ]
+C:\Users\Asus\source\repos\Project3\main.cpp(58,71): warning C4244:         and
+C:\Users\Asus\source\repos\Project3\main.cpp(58,71): warning C4244:         [
+C:\Users\Asus\source\repos\Project3\main.cpp(58,71): warning C4244:             T=float
+C:\Users\Asus\source\repos\Project3\main.cpp(58,71): warning C4244:         ]
+audiere.dll : fatal error LNK1107: недопустимый или поврежденный файл: не удается прочитать по 0x2C0
